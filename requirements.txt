@@ -1,0 +1,14 @@
+aiogram==3.13.0
+pyrogram==2.0.106
+tgcrypto==1.2.5
+yt-dlp==2025.6.30
+aiosqlite==0.20.0
+asyncio-throttle==1.0.2
+matplotlib==3.9.2
+pillow==10.4.0
+aiofiles~=23.2.1
+psutil==6.1.0
+python-dotenv==1.0.1
+babel==2.16.0
+google-api-python-client==2.151.0
+requests==2.32.3
